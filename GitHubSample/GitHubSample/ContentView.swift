@@ -1,8 +1,8 @@
 //
 //  ContentView.swift
-//  GitHubSampleWithTCA
+//  GitHubSample
 //
-//  Created by aryzae on 2024/09/17.
+//  Created by aryzae on 2024/09/22.
 //
 
 import SwiftUI

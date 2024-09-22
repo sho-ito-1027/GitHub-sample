@@ -1,13 +1,13 @@
 //
-//  GitHubSampleWithTCAUITestsLaunchTests.swift
-//  GitHubSampleWithTCAUITests
+//  GitHubSampleUITestsLaunchTests.swift
+//  GitHubSampleUITests
 //
-//  Created by aryzae on 2024/09/17.
+//  Created by aryzae on 2024/09/22.
 //
 
 import XCTest
 
-final class GitHubSampleWithTCAUITestsLaunchTests: XCTestCase {
+final class GitHubSampleUITestsLaunchTests: XCTestCase {
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true
     }

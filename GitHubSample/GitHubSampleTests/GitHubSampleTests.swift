@@ -1,13 +1,13 @@
 //
-//  GitHubSampleWithTCATests.swift
-//  GitHubSampleWithTCATests
+//  GitHubSampleTests.swift
+//  GitHubSampleTests
 //
-//  Created by aryzae on 2024/09/17.
+//  Created by aryzae on 2024/09/22.
 //
 
 import XCTest
 
-final class GitHubSampleWithTCATests: XCTestCase {
+final class GitHubSampleTests: XCTestCase {
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.
     }
